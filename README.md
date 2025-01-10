@@ -1,4 +1,4 @@
-Pizza Sales Dashboard 🚀
+Pizza Sales Dashboard 
 This project is a Pizza Sales Dashboard created using Power BI and SQL, designed to visualize and analyze the sales performance, customer trends, and operational insights of a pizza business. 
 It leverages SQL for data extraction and transformation, and Power BI for creating an interactive and visually appealing dashboard.
 
